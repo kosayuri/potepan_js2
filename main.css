@@ -1,0 +1,31 @@
+body,h1,button{
+    margin: 0;
+}
+
+div{
+    display: flex;
+  flex-direction: row;
+  width:500px;
+}
+
+h1{
+    font-weight:normal;
+    font-size:40px;
+    background-color:#000;
+    color:#fff;
+    width:500px;
+    text-align:right;
+
+}
+
+button{
+    margin-top:5px;
+    margin:5px 2.5px 0 2.5px;
+    width:25%;
+    height:40px;
+    display:inline-block;
+}
+
+#AC,#equal{
+    width:50%;
+}
